@@ -1,0 +1,6 @@
+E:/Embedded System/7-STM 32/My Projects After Training/Ideas Projects/Hand_Free/Drivers/Core/Include/core_cm4.h:1809:22:__NVIC_SetPriority	16	static
+E:/Embedded System/7-STM 32/My Projects After Training/Ideas Projects/Hand_Free/Drivers/Core/Include/core_cm4.h:2017:26:SysTick_Config	16	static
+../Src/Src/Systick.c:109:6:SysTick_IncrementTicks_cb	4	static
+../Src/Src/Systick.c:120:10:SysTick_GetCurrentTick	4	static
+../Src/Src/Systick.c:131:6:SysTick_Delay	24	static
+../Src/Src/Systick.c:153:6:SysTick_Init	16	static

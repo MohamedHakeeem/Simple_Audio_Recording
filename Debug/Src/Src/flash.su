@@ -1,0 +1,8 @@
+../Src/Src/flash.c:33:6:flash_init	4	static
+../Src/Src/flash.c:58:6:unlock	4	static
+../Src/Src/flash.c:71:6:lock	4	static
+../Src/Src/flash.c:79:6:read_word	16	static
+../Src/Src/flash.c:90:6:write_word	16	static
+../Src/Src/flash.c:123:6:erase_sector	16	static
+../Src/Src/flash.c:165:6:ExtI1_Callback_Flash	4	static
+../Src/Src/flash.c:174:6:flash_process	8	static

@@ -1,0 +1,5 @@
+../Src/Src/Audio.c:23:6:Audio_Adc_Init	4	static
+../Src/Src/Audio.c:101:6:Audio_Timer_Init	4	static
+../Src/Src/Audio.c:129:6:Audio_Process	8	static
+../Src/Src/Audio.c:168:6:EXTI1_Callback	16	static
+../Src/Src/Audio.c:198:6:AUDIO_DMA2_Stream0_Callback	4	static

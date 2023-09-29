@@ -1,0 +1,4 @@
+E:/Embedded System/7-STM 32/My Projects After Training/Ideas Projects/Hand_Free/Drivers/Core/Include/core_cm4.h:1648:22:__NVIC_SetPriorityGrouping	24	static
+E:/Embedded System/7-STM 32/My Projects After Training/Ideas Projects/Hand_Free/Drivers/Core/Include/core_cm4.h:1679:22:__NVIC_EnableIRQ	16	static,ignoring_inline_asm
+E:/Embedded System/7-STM 32/My Projects After Training/Ideas Projects/Hand_Free/Drivers/Core/Include/core_cm4.h:1809:22:__NVIC_SetPriority	16	static
+../Src/Src/Nvic.c:7:6:Nvic_Init	8	static

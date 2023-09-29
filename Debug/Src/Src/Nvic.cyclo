@@ -1,0 +1,4 @@
+core_cm4.h:1648:22:__NVIC_SetPriorityGrouping	1
+core_cm4.h:1679:22:__NVIC_EnableIRQ	2
+core_cm4.h:1809:22:__NVIC_SetPriority	2
+Nvic.c:7:6:Nvic_Init	1
